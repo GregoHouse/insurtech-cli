@@ -18,6 +18,7 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 
 import BootSplash from 'react-native-bootsplash';
+import useScreenDimensions from './helpers/hooks/Screen';
 
 type SectionProps = PropsWithChildren<{
   title: string;

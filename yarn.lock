@@ -5841,6 +5841,7 @@ __metadata:
     react: 18.2.0
     react-native: 0.74.3
     react-native-bootsplash: ^6.0.0
+    react-native-device-info: ^11.1.0
     react-test-renderer: 18.2.0
     typescript: 5.0.4
   languageName: unknown
@@ -8469,6 +8470,15 @@ __metadata:
     react: ">=18.1.0"
     react-native: ">=0.70.0"
   checksum: 2c75df11e39608f518e6cb1a2fa458b0091fa084cc0aa7f7b1cb7f2b97719455a37a2da54b5337e7243df6d187b26b57995f0c965a6a91617d8a525d4fbac5bd
+  languageName: node
+  linkType: hard
+
+"react-native-device-info@npm:^11.1.0":
+  version: 11.1.0
+  resolution: "react-native-device-info@npm:11.1.0"
+  peerDependencies:
+    react-native: "*"
+  checksum: 272cab82573933a1f3a9bc394b82a387ccbdf9fbef131fc1f04b8ff78b36f581931b5c643f5aa278f28577cbc320ef2ac588cafdb73292e9b0cf4427d54c44ce
   languageName: node
   linkType: hard
 
